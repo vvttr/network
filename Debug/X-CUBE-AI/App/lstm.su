@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/lstm.c:258:9:lstm_configure_activations	16	static
+../X-CUBE-AI/App/lstm.c:288:9:lstm_configure_weights	16	static
+../X-CUBE-AI/App/lstm.c:332:9:ai_lstm_get_info	144	static
+../X-CUBE-AI/App/lstm.c:378:9:ai_lstm_get_report	144	static
+../X-CUBE-AI/App/lstm.c:424:10:ai_lstm_get_error	16	static
+../X-CUBE-AI/App/lstm.c:430:10:ai_lstm_create	24	static
+../X-CUBE-AI/App/lstm.c:440:10:ai_lstm_create_and_init	96	static
+../X-CUBE-AI/App/lstm.c:474:12:ai_lstm_inputs_get	16	static
+../X-CUBE-AI/App/lstm.c:484:12:ai_lstm_outputs_get	16	static
+../X-CUBE-AI/App/lstm.c:494:11:ai_lstm_destroy	16	static
+../X-CUBE-AI/App/lstm.c:500:9:ai_lstm_init	24	static
+../X-CUBE-AI/App/lstm.c:517:8:ai_lstm_run	24	static
+../X-CUBE-AI/App/lstm.c:524:8:ai_lstm_forward	16	static
